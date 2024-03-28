@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- Site made with Mobirise AI Website Builder v0.01, https://ai.mobirise.com -->
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise AI v0.01, ai.mobirise.com">
